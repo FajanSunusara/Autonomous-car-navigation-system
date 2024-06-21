@@ -1,6 +1,6 @@
 # 🚗 Intelligent Car Racing and Simulation System 🏁
 
-Welcome to the Intelligent Car Racing and Simulation System! This project combines the thrill of a car racing game with the sophistication of an autonomous car simulator. Built with modern web technologies and powered by a Convolutional Neural Network (CNN), this system offers both interactive gameplay and intelligent navigation.
+Welcome to the Intelligent Car Racing and Simulation System! This project combines the thrill of a car racing game with the sophistication of an autonomous car simulator. Built entirely with JavaScript and powered by a Convolutional Neural Network (CNN), this system offers both interactive gameplay and intelligent navigation.
 
 ![Car Racing Game](images/car_racing_game.jpg)
 
@@ -29,7 +29,7 @@ Welcome to the Intelligent Car Racing and Simulation System! This project combin
 - **Realistic Driving Parameters:** Factors in speed, friction, and acceleration.
 
 ### 🧠 Advanced Decision-Making with CNN
-- **Intelligent Navigation:** Uses a CNN for smart decision-making.
+- **Intelligent Navigation:** Uses a JavaScript-based CNN for smart decision-making.
 - **Adaptive Responses:** Optimizes route and actions dynamically.
 - **Obstacle and Lane Detection:** Enhances detection accuracy for safety and efficiency.
 
@@ -39,9 +39,6 @@ Welcome to the Intelligent Car Racing and Simulation System! This project combin
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Machine Learning:** 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## Installation
 
@@ -95,7 +92,7 @@ Factors such as speed, friction, and acceleration are considered, making the sim
 ### Advanced Decision-Making with CNN
 
 #### Intelligent Navigation
-A Convolutional Neural Network (CNN) processes real-time data, allowing the car to make smart decisions on the fly.
+A JavaScript-based Convolutional Neural Network (CNN) processes real-time data, allowing the car to make smart decisions on the fly.
 
 #### Adaptive Responses
 The CNN helps the car adapt to changing environments, optimizing its route and actions dynamically based on the latest information.
@@ -121,4 +118,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-
+Feel free to adjust the text, icons, and images according to your project's specifics. Ensure that any images referenced (`images/`) are hosted and accessible via a URL or repository.
